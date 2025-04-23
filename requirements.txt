@@ -1,0 +1,16 @@
+# Python dependencies
+httpx
+requests
+sublist3r
+nmap
+requests
+httpx
+dnspython
+whois
+colorama
+openai
+tldextract
+aiohttp
+beautifulsoup4
+lxml
+rich
