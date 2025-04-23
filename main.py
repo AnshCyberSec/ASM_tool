@@ -299,7 +299,7 @@ def main():
         
             print(f"\n✅ Completed processing for {domain}")
 
-    print("\n🎉 All operations completed successfully!")
+    
 
 if __name__ == "__main__":
     main()
